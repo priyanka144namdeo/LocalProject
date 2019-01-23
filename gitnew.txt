@@ -1,1 +1,4 @@
 Learning Git
+Installing git - done
+Executing git  - done
+
